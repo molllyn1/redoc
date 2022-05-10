@@ -155,7 +155,7 @@
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react-tabs": "^3.2.2",
-    "slugify": "~1.4.7",
+    "slugify": "~1.6.5",
     "stickyfill": "^1.1.1",
     "style-loader": "^3.3.1",
     "swagger2openapi": "^7.0.6",
